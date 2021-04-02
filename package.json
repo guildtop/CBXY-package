@@ -1,0 +1,37 @@
+{
+  "_from": "cbxy",
+  "_id": "cbxy@1.5.0",
+  "_inBundle": false,
+  "_integrity": "sha512-M4sde+29mGpJJFCXnWpZW4dmp7Hy6B0MBXLsKi5Ai0uR1MxuqtMJEehQLPX3ktI6XU8okTEy2l9nq9MJokrwbg==",
+  "_location": "/cbxy",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cbxy",
+    "name": "cbxy",
+    "escapedName": "cbxy",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cbxy/-/cbxy-1.5.0.tgz",
+  "_shasum": "7d8bddae17604a2b83e159c7046947c2e42cb2c1",
+  "_spec": "cbxy",
+  "_where": "C:\\Users\\rasmu\\Desktop\\M.RA-v2",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "If You Need Help Are You Free To Join My Discord Server!",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "cbxy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.5.0"
+}
